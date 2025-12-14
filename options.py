@@ -54,4 +54,5 @@ RAD30 = PI/6
 RAD45 = PI/4
 RAD90 = PI/2
 
-FPS = 165
+
+FPS = 60
